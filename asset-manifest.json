@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todomanager/static/css/main.96f6311f.css",
+    "main.js": "/todomanager/static/js/main.221ea1cd.js",
+    "index.html": "/todomanager/index.html",
+    "main.96f6311f.css.map": "/todomanager/static/css/main.96f6311f.css.map",
+    "main.221ea1cd.js.map": "/todomanager/static/js/main.221ea1cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f6311f.css",
+    "static/js/main.221ea1cd.js"
+  ]
+}
